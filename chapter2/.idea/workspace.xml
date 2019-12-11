@@ -27,14 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Sample2_3">
-    <configuration name="Sample2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample2_1" />
-      <module name="chapter2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Sample2_6">
     <configuration name="Sample2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sample2_2" />
       <module name="chapter2" />
@@ -49,11 +42,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sample2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample2_4" />
+      <module name="chapter2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample2_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample2_5" />
+      <module name="chapter2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample2_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample2_6" />
+      <module name="chapter2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sample2_6" />
+        <item itemvalue="Application.Sample2_5" />
+        <item itemvalue="Application.Sample2_4" />
         <item itemvalue="Application.Sample2_3" />
         <item itemvalue="Application.Sample2_2" />
-        <item itemvalue="Application.Sample2_1" />
       </list>
     </recent_temporary>
   </component>
@@ -83,21 +99,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1575984574001">
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1576069536428">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575984574001" />
-    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1575984574001">
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576069536428" />
+    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1576069536428">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575984574001" />
-    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1575984574000">
+    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576069536428" />
+    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1576069536428">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575984574000" />
-    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1575984574001">
+    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576069536428" />
+    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1576069536428">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575984574001" />
+    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576069536428" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576067727072">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576067727072" />
   </component>
 </project>
