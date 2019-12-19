@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="chapter2" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -27,30 +30,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Sample2_6">
-    <configuration name="Sample2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample2_2" />
-      <module name="chapter2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sample2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample2_3" />
-      <module name="chapter2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sample2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample2_4" />
-      <module name="chapter2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sample2_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample2_5" />
+  <component name="RunManager" selected="Application.Sample2_10">
+    <configuration name="Sample2_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample2_10" />
       <module name="chapter2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,13 +45,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sample2_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample2_7" />
+      <module name="chapter2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample2_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample2_8" />
+      <module name="chapter2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample2_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample2_9" />
+      <module name="chapter2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sample2_10" />
+        <item itemvalue="Application.Sample2_9" />
+        <item itemvalue="Application.Sample2_8" />
+        <item itemvalue="Application.Sample2_7" />
         <item itemvalue="Application.Sample2_6" />
-        <item itemvalue="Application.Sample2_5" />
-        <item itemvalue="Application.Sample2_4" />
-        <item itemvalue="Application.Sample2_3" />
-        <item itemvalue="Application.Sample2_2" />
       </list>
     </recent_temporary>
   </component>
@@ -99,25 +102,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1576069536428">
+    <state x="233" y="0" key="#Auto_Import" timestamp="1576761036438">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576069536428" />
-    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1576069536428">
+    <state x="233" y="0" key="#Auto_Import/0.0.1280.680@0.0.1280.680" timestamp="1576761036438" />
+    <state x="420" y="81" key="FileChooserDialogImpl" timestamp="1576762293206">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576069536428" />
-    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1576069536428">
+    <state x="420" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576762293206" />
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1576762314875">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576069536428" />
-    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1576069536428">
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576762314875" />
+    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1576762314875">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576069536428" />
+    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576762314875" />
+    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1576762314874">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576762314874" />
+    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1576762314875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576762314875" />
     <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1576067727072">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576067727072" />
+    <state x="90" y="0" key="new project wizard" timestamp="1576762311807">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="90" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1576762311807" />
   </component>
 </project>
