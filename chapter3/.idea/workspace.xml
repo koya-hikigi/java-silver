@@ -30,37 +30,37 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Sample3_13">
-    <configuration name="Sample3_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample3_10" />
+  <component name="RunManager" selected="Application.Sample3_21">
+    <configuration name="Sample3_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample3_17" />
       <module name="chapter3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample3_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample3_11" />
+    <configuration name="Sample3_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample3_18" />
       <module name="chapter3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample3_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample3_12" />
+    <configuration name="Sample3_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample3_19" />
       <module name="chapter3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample3_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample3_13" />
+    <configuration name="Sample3_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample3_20" />
       <module name="chapter3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample3_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample3_9" />
+    <configuration name="Sample3_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample3_21" />
       <module name="chapter3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,11 +68,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sample3_13" />
-        <item itemvalue="Application.Sample3_12" />
-        <item itemvalue="Application.Sample3_11" />
-        <item itemvalue="Application.Sample3_10" />
-        <item itemvalue="Application.Sample3_9" />
+        <item itemvalue="Application.Sample3_21" />
+        <item itemvalue="Application.Sample3_20" />
+        <item itemvalue="Application.Sample3_19" />
+        <item itemvalue="Application.Sample3_18" />
+        <item itemvalue="Application.Sample3_17" />
       </list>
     </recent_temporary>
   </component>
@@ -106,21 +106,21 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1576762829225" />
-    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1576889145903">
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1577106140055">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576889145903" />
-    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1576889145903">
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577106140055" />
+    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1577106140055">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576889145903" />
-    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1576889145903">
+    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577106140055" />
+    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1577106140054">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576889145903" />
-    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1576889145903">
+    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577106140054" />
+    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1577106140055">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576889145903" />
+    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577106140055" />
   </component>
 </project>
